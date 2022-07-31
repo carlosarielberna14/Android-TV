@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.MovieTV" parent="@style/Theme.Leanback" />
+</resources>
